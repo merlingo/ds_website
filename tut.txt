@@ -1,0 +1,22 @@
+Three.js
+Amaç: Ejderha .obj 3D objesi ile animation web sitesi kurma
+Kullanım:
+1- Creating a Scene
+- To actually be able to display anything with three.js, we need three things: scene, camera and renderer, so that we can render the scene with camera.
+2- Adding 3D object or Geometry
+3- Combining Geometry and Material into a Mesh and adding to the Scene.
+4- Adding ambient lights to the Scene.
+5- Adding point lights to the Scene.
+6- Creating a render loop with the requestAnimationFrame.
+
+
+Gereksinimler:
+1- Scene, camera ve renderer yarat
+2- 3D objeyi yerleştir
+3- 3D objenin iskeletini yükle
+4- scrollDown fonksiyonu yaz
+5- Arka planı aşağı sürükleme kodu yaz
+6- 3D objenin scrollDown animasyonunu yaz
+7- Section yukleme ve kaldirma fonksiyonlarını yaz
+8- scrollUp fonksiyonunu yaz
+9- start stop animation functions
